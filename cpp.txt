@@ -1,0 +1,33 @@
+Related
+What's the best way to learn C and C++?
+With "best way", I'm assuming you mean most efficient, thorough, step by step learning, from beginner level, with best resources and in limited time.
+I'd suggest this:
+
+For C:
+
+Buy or download "C Programming Language" by Dennis Ritchie and Kerninghan. Dennis developed the language and the book is a small marvel. It's the best book to get the basics and learn to appreciate the language.
+Download the TutorialsPoint C tutorial, it's comprehensive tutorial and would act as a very good reference.
+If you have some problem with a topic, refer GeeksForGeeks and you'd probably get massive useful info. If a specific problem you can't find, search StackOverflow, if not found there, post the question there, it has a very helpful community.
+Pick up either Project Euler, CodeChef or SPOJ (Sphere Online Judge) problems and solve them with C or C++ or both. You'd learn a lot about problem solving, applying what you've learnt and the subtle differences between C and C++.
+You can also take a course on Coursera, Udacity or Lynda (Free as well as Paid available)
+Practice DAILY. Every single day, even if for five minutes, a simple concept or two lines of code. Don't break the chain.
+There are websites dedicated to C like C programming.com - Learn C and C++ Programming - Cprogramming.com, Learn C - Free Interactive C Tutorial, Learn C Online , Learn Programming Tutorials Step By Step - c4learn.com etc, that you may find useful.
+For C++:
+
+Like C, you can refer to C++ by Bjarne Stroustrup, who is the creator and developer of C++. But for a beginner, it's a huge and a bit technical book. I'd rather suggest you begin with C++ by Robert Lafore or if you want even more basic than Sumita Arora (I guess it has Data Structures too, I haven't read this). But both of these do not have a coverage of STL (Standard Template Library, or have a very small coverage).
+Steps 2-6 are same for C++.
+7. Websites for C++ are Learn C++, The C++ Resources Network, Learn C++ Online - The Best Free C++ Online Programming Tutorial Site etc.
+
+If you're confident about your knowledge in the language and want to move to Data Structures and Algorithms, I'd suggest a few steps:
+
+Buy Data Structures and Algorithms Made Easy by Narasimha Karumanchi, this develops problem solving skills and has thorough coverage of all important data structures and Algorithms.
+If you want a strong theory background, you can buy An Introduction to Algorithms by Thomas H. Cormen, et al.
+Watch the IIT-IISc NPTEL videos (I took Data Strcutures and Algorithms by Dr. Naveen Garg of IITD, best one) and MIT OpenCourseWare videos (I took 6.046 J), if you take up one course from either for DS and Algo, you'd master it. All are freely available on YouTube and nptel, opencourseware websites.
+Refer to Geeks For Geeks, CodeChef, TopCoder and Career Cup questions and Tutorials for practice.
+You can always refer to Stack Overflow.
+
+And, on Quora, I'd suggest follow Brian Bi and topics C, C++, Data structure and Algorithms, Competitive Coding, Interview Questions.
+
+I think this is more than enough to become a world class programmer in C/ C++, beginning from scratch.
+
+Happy Coding and Learning.
